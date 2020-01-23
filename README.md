@@ -1,2 +1,2 @@
-# ma_automation
+# MA_Automation
 training repository
